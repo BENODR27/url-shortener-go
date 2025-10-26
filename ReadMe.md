@@ -6,3 +6,4 @@ go get gorm.io/driver/sqlite
 
 
 go mod tidy
+go run ./cmd/server
